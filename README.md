@@ -22,4 +22,29 @@ Our solution: An app to **book doctors who visit the patient’s home** — just
 - Save appointment record
 
 ## 🧪 Sample Run
+Welcome to Doctor at Your Doorstep!
+
+Enter your name: Akhilesh
+Enter your address: Hyderabad
+Enter your phone number: 9876543210
+
+Select a doctor:
+1. Dr. Meera
+2. Dr. Ajay
+3. Dr. Sneha
+Enter your choice: 2
+
+Enter appointment time (e.g., 4:00 PM): 6:00 PM
+
+Booking successful!
+
+Appointment Details:
+---------------------
+Name     : Akhilesh
+Address  : Hyderabad
+Phone    : 9876543210
+Doctor   : Dr. Ajay
+Time     : 6:00 PM
+---------------------
+Thank you for using Doctor at Your Doorstep!
 
